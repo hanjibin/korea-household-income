@@ -1,0 +1,7 @@
+.venv/
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+.superpowers/
+.pytest_cache/
