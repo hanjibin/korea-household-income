@@ -8,7 +8,7 @@ Korea Income and Welfare panel, 92,857 household-years, data years 2005-2018. Py
 
 Income unit (10k KRW per year) is estimated and income year (Kaggle `year`; appears to be the income reference year, fielded the following year) is inferred; see [Limitations](#limitations).
 
-Full analysis: [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb) (an nbviewer link can be added after the repository is published). Every judgment call: [`docs/analysis_decisions.md`](docs/analysis_decisions.md).
+Full analysis: [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb) ([view on nbviewer](https://nbviewer.org/github/hanjibin/korea-household-income/blob/main/notebooks/analysis.ipynb), includes the interactive map). Every judgment call: [`docs/analysis_decisions.md`](docs/analysis_decisions.md).
 
 ## Key results
 
